@@ -1,11 +1,11 @@
 # Neural Networks
 
-1. Introduction to Deep Learning
+1. [Introduction to Deep Learning](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/01_IntroductionToDeepLearning.ipynb)
   - What is a Neural Network?
   - Supervised Learning with Neural Networks
   - Why is Deep Learning Taking Off?
   - About This Course
-2. Logistic Regression as a Neural Network
+2. [Logistic Regression as a Neural Network](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/commit/7ca8cf4161c07dec33e60972b6f8829190950a60)
   - Binary Classification
   - Logistic Regression
   - Logistic Regression Cost Function
@@ -16,7 +16,7 @@
   - Derivatives with Computation Graph
   - Logistic Regression Gradient Descent
   - Gradient Descent on Examples
-3. Python and Vectorization
+3. [Python and Vectorization](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/03_Python%26Vectorization.ipynb)
   - Vectorization
   - More Vectorization Examples
   - Vectorization Logistic Regression
@@ -24,7 +24,7 @@
   - Broadcasting in Python
   - A Note on Python/Numpy Vectors
   - Explanation of Logistic Regression Cost Function (Optional)
-4. Shallow Networks
+4. [Shallow Networks](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/04_ShallowNetwork.ipynb)
   - Neural Network Overview
   - Neural Network Representation
   - Computing a Neural Network's Output
@@ -36,7 +36,7 @@
   - Gradient Descent for Neural Networks
   - Back Propagation Intuition (optional)
   - Random Initialization
-5. Deep Neural Networks
+5. [Deep Neural Networks](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
   - Deep L-layer Neural Network
   - Forward Propagation in a Deep Network
   - Getting Your Matrix Dimension Right
