@@ -1,6 +1,6 @@
 # Neural Networks
 
-1. [Introduction to Deep Learning](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/01_IntroductionToDeepLearning.ipynb#what-is-a-neural-network?)
+1. [Introduction to Deep Learning](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/01_IntroductionToDeepLearning.ipynb#supervised-learning-with-neural-networks)
   - What is a Neural Network?
   - Supervised Learning with Neural Networks
   - Why is Deep Learning Taking Off?
